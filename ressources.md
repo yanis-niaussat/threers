@@ -1,0 +1,12 @@
+* [https://fr.wikipedia.org/wiki/Ombrage\_de\_Gouraud](https://fr.wikipedia.org/wiki/Ombrage_de_Gouraud)
+* [https://fr.wikipedia.org/wiki/Rasterisation](https://fr.wikipedia.org/wiki/Rast%25C3%25A9risation)
+* [https://en.wikipedia.org/wiki/3D\_projection#Orthographic\_projection](https://en.wikipedia.org/wiki/3D_projection#Orthographic_projection)
+* [https://en.wikipedia.org/wiki/Braille\_Patterns](https://en.wikipedia.org/wiki/Braille_Patterns)
+* [https://en.wikipedia.org/wiki/Camera\_matrix](https://en.wikipedia.org/wiki/Camera_matrix)
+* [https://en.wikipedia.org/wiki/Transformation\_matrix#Perspective\_projection](https://en.wikipedia.org/wiki/Transformation_matrix#Perspective_projection)
+* [http://ferrovia.free.fr/tutoriaux/gouraud.php](http://ferrovia.free.fr/tutoriaux/gouraud.php)
+* [https://fr.wikipedia.org/wiki/Ombrage\_plat](https://fr.wikipedia.org/wiki/Ombrage_plat)
+* [https://people.minesparis.psl.eu/olivier.stab/TP\_scilab\_MG91/COURS/C2-MG-Shading.pdf](https://people.minesparis.psl.eu/olivier.stab/TP_scilab_MG91/COURS/C2-MG-Shading.pdf)
+* [https://cg.iit.bme.hu/\~szirmay/zbuff.pdf](https://cg.iit.bme.hu/~szirmay/zbuff.pdf)
+* [https://graphics.cs.cmu.edu/nsp/course/15-462/Fall04/slides/08-shading.pdf](https://graphics.cs.cmu.edu/nsp/course/15-462/Fall04/slides/08-shading.pdf)
+
